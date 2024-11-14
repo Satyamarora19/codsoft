@@ -46,6 +46,8 @@ border: 2px solid rgba(225,225,225,0.18);
     width: 50px;
     border-radius: 100%;
     border: 2px solid black;
+     background-color: white;
+ color: black;
 }
 
 .equal{
@@ -58,4 +60,6 @@ font-size: xx-large;
     width: 120px;
     border-radius: 50px;
     border: 2px solid black;
+     background-color: white;
+ color: black;
 }
